@@ -108,10 +108,10 @@ analytics:
 # Site Author
 author:
   name             : "Ali Attarian"
-  avatar           : "/assets/images/bio-photo.jpg"
-  bio              : I'm an assistant professor of Computer Science at IUST. I enjoy learning new things and sharing what I know with others. So far I've learned some science, math, computers, NLP, IT, BJJ, MMA, swimming, diving, flying... 
-  location         : "تهران"
-  email            : sauleh@gmail.com
+  avatar           : "/assets/images/me.jpg"
+  bio              : I'm a CE student in IUST who enjoys programming and want to share my exprience with you
+  location         : "Mashhad Moghaddas"
+  email            : ali.live26.aa@gmail.com
   twitter: sauleh_e
   linkedin: sauleh
   google_scholar: Q25s5KkAAAAJ
