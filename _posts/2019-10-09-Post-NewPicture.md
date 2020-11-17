@@ -1,23 +1,18 @@
 ---
 layout: posts
-title: My new picture
+title: All New All Different
 ---
 
-## This is my team at Microsoft
-People in the picture are:
-- Arul
-- Fai
-- Scott
-- Me
+## This is my university
+This is the entrace of IUST
 
-[my favorite website](http://www.google.com)
+[Here you can explore my university](http://vt.iust.ac.ir)
 
-kajsdlfk jsaldfkj saldkjflaskdjflaskjdlfkasjdlfkjasdl fjsad fkajsldkfjlaskdj flakjds fksad flaksj dlfkjads l
-kfajdskfajsdf sakd fjksad jfksdj fksdj f
+Having passed the days of high school, which i liked a lot, I am now a member of a new family here :)
 
 
 
-![alt text](../assets/images/grouppic.jpg "Team Picture")
+![alt text](../assets/images/unnamed.jpg "A new stage of life")
 
 ---
-**Test**: This is atest
+**PS**: I love to see my university after the pandemic, hope it will happen soon...
