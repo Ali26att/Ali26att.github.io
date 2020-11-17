@@ -2,16 +2,28 @@
 layout: single
 author_profile: true
 permalink: /friends/
-title: My friends around the world
+title: My friends, old ones and new ones
 tags: [friends]
-modified: 4-10-2019
+modified: 17-11-2020
 comments: true
 ---
 
-### همکلاسی‌ها
-* علی حسینی
-* بهداد محمدی
-* حسن داریان
+### University Classmates
+* Mohammad Hossein Abbaspour
+* Sina Alinejad
+* Sina Zamani
+* Aref Alinejad
+
+### Senior High School Classmates
+* Mohammad Javad Shafiee
+* Masoud Nejadmousa
+* Behzad Roohi
+
+### Junior High School Classmates
+* Mohammadhossein Hejazian
+* Sina Golfakhrabadi
+* Javad Alimirzaiee
+
 
 
 
