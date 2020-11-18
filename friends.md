@@ -12,7 +12,7 @@ comments: true
 * Mohammad Hossein Abbaspour
 * Sina Alinejad
 * Sina Zamani
-* Aref Alinejad
+* Aref Alijannejad
 
 ### Senior High School Classmates
 * Mohammad Javad Shafiee
