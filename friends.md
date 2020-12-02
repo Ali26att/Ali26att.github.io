@@ -4,7 +4,7 @@ author_profile: true
 permalink: /friends/
 title: My friends, old ones and new ones
 tags: [friends]
-modified: 17-11-2020
+modified: 12-02-2020
 comments: true
 ---
 
