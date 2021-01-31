@@ -14,7 +14,11 @@ gallery:
   - url: /assets/images/2.jpg
     image_path: /assets/images/2.jpg
     alt: "placeholder image 2"
-    title: "My Background"    
+    title: "My Background"
+  - url: /assets/images/teams.jpg
+    image_path: /assets/images/teams.jpg
+    alt: "friends in university"
+    title: "My Classmates in Microsoft Teams"
 ---
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
